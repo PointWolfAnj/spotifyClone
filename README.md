@@ -15,10 +15,10 @@ When running the live server for the app, you'll be shown log with SpotifyZZ pag
 
 clone the repository
 
-$ git clone git@github.com:PointWolfAnj/spotifyClone.git 
-$ cd client && cd server
-$ npm ci # install dependcies
-$ npm start # it will open localhost:3000
+git clone git@github.com:PointWolfAnj/spotifyClone.git 
+cd client && cd server
+npm ci # install dependcies
+npm start # it will open localhost:3000
 
 This wasn't my orignal idea, my original idea was to to still use spotify api, but to return Users top track for month, 6 months and all-time, hiwever that idea was archived. For this idea awhich allowed to keep the lot of orignal code to be used. 
 
